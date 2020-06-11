@@ -71,7 +71,7 @@ _Be aware, this pictures will be displayed if your team is in the Top three_
 ### 3. Add your profile information
 
 - Add your Complete Details as asked in the markdown template. i.e `your-team-Name.md` file.
-- Ensure that details filled is not fake.
+- Ensure that details filled are not fake.
 - When you completely filled your details. Re-check for Typos if any.
 
 * **Do not manipulate the template files As per your methodology.** 
