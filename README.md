@@ -77,7 +77,7 @@ _Be aware, this pictures will be displayed if your team is in the Top three_
 * **Do not manipulate the template files As per your methodology.** 
 * **Do not use special characters in the template above.**
 
-# Wait, I have more questions to ask?
+# **Wait, I have more questions to ask** ⁉
 
   > Don't worry we members of **I.S.T.E** are here to help You.
 
