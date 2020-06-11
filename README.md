@@ -56,7 +56,7 @@ _data/<Team-Name-for-folder>/index.md
 Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
 
-```javascript
+```
 |---_data
       |---folder(with-your-team-name)
             |----member-1-name.png
