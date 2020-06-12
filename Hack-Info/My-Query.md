@@ -1,1 +1,51 @@
-# **My Common Queries Answered here** 🤩
+# **Some Frequently Asked Questions** ⁉
+
+
+## Start Writing your question here ❓ 
+
+Write answer here...
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
+## ❓
+
