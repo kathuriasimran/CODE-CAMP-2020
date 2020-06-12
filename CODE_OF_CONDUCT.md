@@ -16,7 +16,7 @@ Attendees violating these rules will be asked to leave the event at the sole dis
 
 Thank you for helping to make this a welcoming, friendly space for all.
 
-Contact Information 📧
+# Contact Information 📧
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact support or another GitHub employee.
 
