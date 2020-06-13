@@ -11,7 +11,7 @@ Nothing! We are trying very hard to provide everything you need for a great even
 ### ***4.Who can participate❓***
 The hackathon is open to those who are interested in technology and innovation and have an interesting project or other idea to develop within the scope of the challenges proposed. You can participate in the hackathon in groups of minimum 3 and maximum 5 people. 
 
-### ***5.Who owns my project & IP❓***
+### ***5.Who owns my project❓***
 The team that develops the project owns the project and IP. We encourage you to share your code or make it open source, but it’s not required.
 
 ### ***6.What is the Program/Timetable❓***
